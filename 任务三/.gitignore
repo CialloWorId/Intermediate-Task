@@ -38,6 +38,5 @@
 /.vscode/
 /.settings/
 
-# ===== editor =====
-/*.ioc
+# ===== cubemx =====
 /*.mxproject
